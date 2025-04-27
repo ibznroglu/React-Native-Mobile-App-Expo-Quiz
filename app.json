@@ -23,6 +23,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "APPWRITE_ENDPOINT": "https://fra.cloud.appwrite.io/v1", 
+      "APPWRITE_PROJECT_ID": "678d90e30034984c6398" 
     }
   }
 }
